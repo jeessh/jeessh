@@ -1,4 +1,5 @@
 ### Hi-ya! 😄👋 
+My name's Jesse, but you can call me Jess if you'd like!
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeessh&hide=prs,issues&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
