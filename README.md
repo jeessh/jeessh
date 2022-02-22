@@ -39,8 +39,19 @@ My name's Jesse, but you can call me Jess if you'd like! I'm currently a senior 
 
 ## Contact 📨
 
-As always, feel free to connet on any platform!
+As always, feel free to connect on any platform!
+---
 
+<div align="center">
+  
+<a href="https://www.linkedin.com/in/huang-jesse/">![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=007396)</a>
+![](https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=007396)
+![](https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=email&logoColor=white&color=007396)
+![](https://img.shields.io/badge/Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=007396)
+
+
+  
+</div>
 <!--
 **jeessh/jeessh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
