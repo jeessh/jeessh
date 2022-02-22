@@ -2,18 +2,18 @@
 ---
 My name's Jesse, but you can call me Jess if you'd like! I'm currently a senior at Milliken Mills High School, learning to become proficient in fullstack software development!
 
-###Tech & Tools
+### Tech & Tools
 ---
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 
-###GitHub Stats
+### GitHub Stats
 ---
 test
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeessh&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeessh&hide=prs,issues&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-###Contact
+### Contact
 ---
 As always, feel free to connet on any platform!
 
