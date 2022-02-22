@@ -44,10 +44,10 @@ As always, feel free to connect on any platform!
 
 <div align="center">
   
-<a href="https://www.linkedin.com/in/huang-jesse/">![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=007396)</a>
-<a href= "https://www.instagram.com/mac_n_jeess">![](https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=007396)</a>
-<a href="jesshuang5733@gmail.com">![](https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=gmail&logoColor=white&color=#EA4335)</a>
-<a href="https://discordapp.com/users/404975590534545409">![](https://img.shields.io/badge/Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=007396)</a>
+<a href="https://www.linkedin.com/in/huang-jesse/">![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)</a>
+<a href= "https://www.instagram.com/mac_n_jeess">![](https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F)</a>
+<a href="jesshuang5733@gmail.com">![](https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)</a>
+<a href="https://discordapp.com/users/404975590534545409">![](https://img.shields.io/badge/Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=5865F2)</a>
 
 
   
