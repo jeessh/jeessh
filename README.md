@@ -1,6 +1,5 @@
-### Hi there 👋
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeessh&hide=prs,issues,contribs)](https://github.com/anuraghazra/github-readme-stats)
+### Hi-ya! 😄👋 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeessh&hide=prs,issues)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
