@@ -30,6 +30,7 @@ My name's Jesse, but you can call me Jess if you'd like! I'm currently a senior 
 <div align="center">
   
 [![stats](https://github-readme-stats.vercel.app/api?username=jeessh&hide=prs,issues&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+  <b>
 [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jeessh&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
