@@ -13,10 +13,10 @@ My name's Jesse, but you can call me Jess if you'd like! I'm currently a senior 
 ![](https://img.shields.io/badge/C++-informational?style=for-the-badge&logo=cplusplus&logoColor=white&color=2bbc8a)
 
 ![](https://img.shields.io/badge/ReactJS-informational?style=for-the-badge&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/React_Native-informational?style=for-the-badge&logo=react&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/React_Native-informational?style=for-the-badge&logo=createreactapp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Express.js-informational?style=for-the-badge&logo=express.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Express.js-informational?style=for-the-badge&logo=express&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Google_Apps_Script-informational?style=for-the-badge&logo=google&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/GIT-informational?style=for-the-badge&logo=git&logoColor=white&color=2bbc8a)
