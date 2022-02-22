@@ -38,10 +38,8 @@ My name's Jesse, but you can call me Jess if you'd like! I'm currently a senior 
 </div>
 
 ## Contact 📨
-<div>
+
 As always, feel free to connect on any platform!
-</div>
----
 
 <div align="center">
   
