@@ -1,9 +1,10 @@
 # Hi-ya! 😄👋 
----My name's Jesse, but you can call me Jess if you'd like! I'm currently a senior at Milliken Mills High School, learning to become proficient in fullstack software development!
+---
+My name's Jesse, but you can call me Jess if you'd like! I'm currently a senior at Milliken Mills High School, learning to become proficient in fullstack software development!
 
 <div align="center">
   
-## Tech & Tools
+## Tech & Tools 🛠 
 ---
 ![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white&color=007396)
 ![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=F7DF1E)
@@ -24,14 +25,13 @@
 ![](https://img.shields.io/badge/IntelliJ_IDEA-informational?style=for-the-badge&logo=intellijidea&logoColor=white&color=000000)
 </div>
 
-## GitHub Stats
+## GitHub Stats 📈 
 ---
-test
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeessh&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jeessh&hide=prs,issues&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
-## Contact
+## Contact 📨
 ---
 As always, feel free to connet on any platform!
 
