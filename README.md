@@ -7,7 +7,6 @@ My name's Jesse, but you can call me Jess if you'd like! I'm currently a senior 
 ## Tech & Tools
 ---
 
-
 ![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
