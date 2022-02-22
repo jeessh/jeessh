@@ -2,9 +2,12 @@
 ---
 My name's Jesse, but you can call me Jess if you'd like! I'm currently a senior at Milliken Mills High School, learning to become proficient in fullstack software development!
 
+<div align="center">
+  
 ## Tech & Tools
 ---
-<div align="center">
+
+
 ![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Python-informational?style=for-the-badge&logo=python&logoColor=white&color=2bbc8a)
