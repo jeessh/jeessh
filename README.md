@@ -1,4 +1,4 @@
-## Hi-ya! 😄👋 
+# Hi-ya! 😄👋 
 ---
 My name's Jesse, but you can call me Jess if you'd like! I'm currently a senior at Milliken Mills High School, learning to become proficient in fullstack software development!
 
