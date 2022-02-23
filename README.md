@@ -8,7 +8,9 @@ I'm currently learning more on implementing a MERN Stack and getting more famili
 
 <div>
   <div padding=150px align="center">
+    
     ![sunset-gif](https://github.com/jeessh/jeessh/blob/main/sunsetGIF.gif)
+    
   </div>
 </div>
 
