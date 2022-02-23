@@ -25,11 +25,8 @@ Just like my approach to school life, I like to keep things diverse! Currently, 
 <div align="center">
     
 ### *Happy Hacking!*
-
-<img src="https://github.com/jeessh/jeessh/blob/main/sunsetGIF.gif">
     
 </div>
-
 
 ---
 
