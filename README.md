@@ -8,7 +8,7 @@
 
 <div align="center">
     
-<img src="https://github.com/jeessh/jeessh/blob/main/beachImage.png">
+<img src="https://github.com/jeessh/jeessh/blob/main/beachImage.png" width=150px>
     
 </div>
 
