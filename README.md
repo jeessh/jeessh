@@ -6,6 +6,12 @@ Just like my approach to school life, I like to keep things diverse! Currently, 
 
 I'm currently learning more on implementing a MERN Stack and getting more familiar with JS. ✍️ 
 
+<div>
+  <div padding=150px>
+    hi
+  </div>
+</div>
+
 ## Tech & Tools 🛠
 <div align="center">
   
