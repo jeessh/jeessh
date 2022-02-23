@@ -1,10 +1,18 @@
+<div align="center">
+    
 # Hi-ya! 😄👋 
+    
+</div>
 
 My name's Jesse, but you can call me Jess if you'd like! 😊 I'm currently a senior at Milliken Mills High School, learning to become proficient in fullstack software development!
 
 Just like my approach to school life, I like to keep things diverse! Currently, from my profile, you'll find some projects I've worked on from various Hackathons, competitions, and personal projects, some course solutions, and other repos scattered around.
 
-I'm currently learning more on implementing a MERN Stack and getting more familiar with JS. ✍️ 
+✍️ I'm currently learning more on implementing a MERN Stack and getting more familiar with JS.
+
+😄 As always, feel free to interact with my repos or connect with me anytime! 
+
+*Happy Hacking!*
 
 <div align="center">
 
@@ -48,8 +56,6 @@ I'm currently learning more on implementing a MERN Stack and getting more famili
 ## Contact 📨
 
 <div align="center">
-
-  As always, feel free to connect on any platform. Thanks for checking me out! 😁
   
 ### 🕰 UTC-5:00 🕰 
   
