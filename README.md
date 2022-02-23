@@ -2,7 +2,9 @@
 
 My name's Jesse, but you can call me Jess if you'd like! I'm currently a senior at Milliken Mills High School, learning to become proficient in fullstack software development!
 
+Just like my approach to school life, I like to keep things diverse! Currently, from my profile, you'll find some projects I've worked on from various Hackathons, competitions, and personal projects, some course solutions, and other repos scattered around.
 
+You'll often
   
 ## Tech & Tools 🛠
 <div align="center">
@@ -39,9 +41,9 @@ My name's Jesse, but you can call me Jess if you'd like! I'm currently a senior 
 
 ## Contact 📨
 
-As always, feel free to connect on any platform!
-
 <div align="center">
+  
+### UTC-5:00
   
 <a href="https://www.linkedin.com/in/huang-jesse/">![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)</a>
 <a href= "https://www.instagram.com/mac_n_jeess">![](https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F)</a>
