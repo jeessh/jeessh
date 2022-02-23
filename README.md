@@ -4,12 +4,6 @@
     
 </div>
 
-<div align="center">
-
-<img src="https://github.com/jeessh/jeessh/blob/main/sunsetGIF.gif">
-    
-</div>
-
 ---
 
 My name's Jesse, but you can call me Jess if you'd like! 😊 I'm currently a senior at Milliken Mills High School, learning to become proficient in fullstack software development!
@@ -21,6 +15,13 @@ Just like my approach to school life, I like to keep things diverse! Currently, 
 😄 As always, feel free to interact with my repos or connect with me anytime! 
 
 *Happy Hacking!*
+
+<div align="center">
+
+<img src="https://github.com/jeessh/jeessh/blob/main/sunsetGIF.gif">
+    
+</div>
+
 
 ---
 
