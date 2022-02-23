@@ -42,8 +42,12 @@ You'll often
 ## Contact 📨
 
 <div align="center">
+
+  As always, feel free to connect on any platform. Thanks for checking me out!
   
 ### 🕰 UTC-5:00 🕰 
+  
+  ---
   
 <a href="https://www.linkedin.com/in/huang-jesse/">![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)</a>
 <a href= "https://www.instagram.com/mac_n_jeess">![](https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F)</a>
