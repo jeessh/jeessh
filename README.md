@@ -13,6 +13,8 @@
     
 </div>
 
+---
+
 My name's Jesse, but you can call me Jess if you'd like! 😊 I'm currently a senior at Milliken Mills High School, learning to become proficient in fullstack software development!
 
 Just like my approach to school life, I like to keep things diverse! Currently, from my profile, you'll find some projects I've worked on from various Hackathons, competitions, and personal projects, some course solutions, and other repos scattered around.
@@ -25,7 +27,7 @@ Just like my approach to school life, I like to keep things diverse! Currently, 
     
 *Happy Hacking!*
 
-<img src="https://github.com/jeessh/jeessh/blob/main/beachImage.png">
+<img src="https://github.com/jeessh/jeessh/blob/main/sunsetGIF.gif">
     
 </div>
 
