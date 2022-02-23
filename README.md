@@ -55,7 +55,7 @@ Just like my approach to school life, I like to keep things diverse! Currently, 
 ## GitHub Stats 📈 
 <div align="center">
   
-[![stats](https://github-readme-stats.vercel.app/api?username=jeessh&hide=issues&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![stats](https://github-readme-stats.vercel.app/api?username=jeessh&hide=prs,issues&show_icons=true&theme=dracula&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div align="center">
             
