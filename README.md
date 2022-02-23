@@ -18,7 +18,7 @@ Just like my approach to school life, I like to keep things diverse! Currently, 
     
 *Happy Hacking!*
 
-<img src="https://github.com/jeessh/jeessh/blob/main/sunsetGIF.gif">
+<img src="https://github.com/jeessh/jeessh/blob/main/beachImage.png">
     
 </div>
 
