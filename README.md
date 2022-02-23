@@ -6,7 +6,6 @@
 
 ---
 
-
 <div align="center">
     
 <img src="https://github.com/jeessh/jeessh/blob/main/beachImage.png">
@@ -25,7 +24,7 @@ Just like my approach to school life, I like to keep things diverse! Currently, 
 
 <div align="center">
     
-*Happy Hacking!*
+### *Happy Hacking!*
 
 <img src="https://github.com/jeessh/jeessh/blob/main/sunsetGIF.gif">
     
