@@ -61,8 +61,6 @@ Just like my approach to school life, I like to keep things diverse! Currently, 
   
 ### 🕰 UTC-5:00 🕰 
   
-  ---
-  
 <a href="https://www.linkedin.com/in/huang-jesse/">![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)</a>
 <a href= "https://www.instagram.com/mac_n_jeess">![](https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F)</a>
 <a href="jesshuang5733@gmail.com">![](https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)</a>
