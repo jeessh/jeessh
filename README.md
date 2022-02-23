@@ -25,7 +25,7 @@ Just like my approach to school life, I like to keep things diverse! Currently, 
 
 ---
 
-## Tech & Tools 🛠
+## Tech & Tools 🔧
 <div align="center">
   
 ![](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=white&color=007396)
