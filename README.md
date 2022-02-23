@@ -8,7 +8,7 @@ I'm currently learning more on implementing a MERN Stack and getting more famili
 
   <div align="center">
     
-    <img src=https://github.com/jeessh/jeessh/blob/main/sunsetGIF.gif>
+    <img src="https://github.com/jeessh/jeessh/blob/main/sunsetGIF.gif">
     
   </div>
 
