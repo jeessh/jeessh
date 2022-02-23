@@ -6,7 +6,7 @@ Just like my approach to school life, I like to keep things diverse! Currently, 
 
 I'm currently learning more on implementing a MERN Stack and getting more familiar with JS. ✍️ 
 
-<div width="50px" align="center">
+<div align="center">
 
 <img src="https://github.com/jeessh/jeessh/blob/main/sunsetGIF.gif">
     
