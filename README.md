@@ -40,7 +40,7 @@ Just like my approach to school life, I like to keep things diverse! Currently, 
 ![](https://img.shields.io/badge/React_Native-informational?style=for-the-badge&logo=createreactapp&logoColor=white&color=09D3AC)
 ![](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=339933)
 ![](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
-![](https://img.shields.io/badge/Express.js-informational?style=for-the-badge&logo=express&logoColor=white&color=000000)
+![](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/Google_Apps_Script-informational?style=for-the-badge&logo=google&logoColor=white&color=4285F4)
 ![](https://img.shields.io/badge/NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)
 ![](https://img.shields.io/badge/GIT-informational?style=for-the-badge&logo=git&logoColor=white&color=C71D23)
