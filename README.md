@@ -80,6 +80,7 @@ Just like my approach to school life, I like to keep things diverse! Currently, 
 <a href= "https://www.instagram.com/mac_n_jeess">![](https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F)</a>
 <a href="jesshuang5733@gmail.com">![](https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=gmail&logoColor=white&color=EA4335)</a>
 <a href="https://discordapp.com/users/404975590534545409">![](https://img.shields.io/badge/Discord-informational?style=for-the-badge&logo=discord&logoColor=white&color=5865F2)</a>
+<a href="https://wa.me/4168369318">![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)</a>
 
 
   
