@@ -38,11 +38,11 @@ Just like my approach to school life, I like to keep things diverse! Currently, 
 
 ![](https://img.shields.io/badge/ReactJS-informational?style=for-the-badge&logo=react&logoColor=white&color=61DAFB)
 ![](https://img.shields.io/badge/React_Native-informational?style=for-the-badge&logo=createreactapp&logoColor=white&color=09D3AC)
-![](https://img.shields.io/badge/Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=339933)
+![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-informational?style=for-the-badge&logo=mongodb&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/Google_Apps_Script-informational?style=for-the-badge&logo=google&logoColor=white&color=4285F4)
-![](https://img.shields.io/badge/NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=CB3837)
+![](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/GIT-informational?style=for-the-badge&logo=git&logoColor=white&color=C71D23)
 ![](https://img.shields.io/badge/Heroku-informational?style=for-the-badge&logo=heroku&logoColor=white&color=430098)
 
