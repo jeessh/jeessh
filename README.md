@@ -3,13 +3,11 @@
 # Hi-ya! 👋 
     
 </div>
-
+<!--
 <div align="center">
-    
 <img src="https://github.com/jeessh/jeessh/blob/main/beachImage.png" width=800px>
-    
 </div>
-
+-->
 ---
 
 My name's Jesse, but you can call me Jess if you'd like! 😊 I'm currently a 2nd-year Computer Science student at the University of Waterloo, learning to become proficient in fullstack software development!
