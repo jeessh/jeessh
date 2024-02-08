@@ -25,7 +25,7 @@ Just like my approach to school life, I like to keep things diverse! Currently, 
 </div>
 
 ---
-
+<!--
 ## Tech & Tools 🔧
 <div align="center">
   
@@ -52,7 +52,7 @@ Just like my approach to school life, I like to keep things diverse! Currently, 
 ![](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
     
 </div>
-
+-->
 ---
 
 ## Contact 📨
