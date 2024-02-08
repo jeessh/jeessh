@@ -57,6 +57,8 @@ Just like my approach to school life, I like to keep things diverse! Currently, 
 -->
 
 <div align="center">
+
+    
 ## Contact 📨
   
 ### 🕰 UTC-5:00 🕰 
