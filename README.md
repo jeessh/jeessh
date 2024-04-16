@@ -16,12 +16,6 @@ Just like my approach to school life, I like to keep things diverse! Currently, 
 
 😄 As always, feel free to interact with my repos or connect with me anytime! 
 
-<div align="center">
-    
-### *Happy Hacking!*
-    
-</div>
-
 ---
 <!--
 ## Tech & Tools 🔧
