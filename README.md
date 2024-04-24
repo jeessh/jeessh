@@ -3,7 +3,7 @@
 # Hey there! I'm Jesse 👋 
     
 
-But you can call me Jess if you'd like! 😊 I'm currently a 2nd-year Computer Science student at the University of Waterloo.
+But you can call me Jess if you'd like! 🤝 I'm currently a 2nd-year Computer Science student at the University of Waterloo.
 
 
 
