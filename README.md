@@ -1,14 +1,14 @@
 <div align="center">
     
-# Hi-ya! 👋 
+# Hey there, I'm Jesse 👋 
     
 ---
 
-My name's Jesse, but you can call me Jess if you'd like! 😊 I'm currently a 2nd-year Computer Science student at the University of Waterloo, learning to become proficient in fullstack software development!
+But you can call me Jess if you'd like! 😊 I'm currently a 2nd-year Computer Science student at the University of Waterloo.
+
+
 
 Just like my approach to school life, I like to keep things diverse! Currently, from my profile, you'll find some projects I've worked on from various Hackathons, competitions, and personal projects, some course solutions, and other repos scattered around.
-
-😄 As always, feel free to interact with my repos or connect with me anytime! 
 
 ---
 <!--
@@ -45,7 +45,7 @@ Just like my approach to school life, I like to keep things diverse! Currently, 
 <div align="center">
 
     
-## Contact 📨
+## Looking forward to connecting! 📨
     
 <a href="https://www.linkedin.com/in/huang-jesse/">![](https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2)</a>
 <a href= "https://www.instagram.com/mac_n_jeess">![](https://img.shields.io/badge/Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=E4405F)</a>
