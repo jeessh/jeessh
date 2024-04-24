@@ -2,7 +2,6 @@
     
 # Hey there, I'm Jesse 👋 
     
----
 
 But you can call me Jess if you'd like! 😊 I'm currently a 2nd-year Computer Science student at the University of Waterloo.
 
@@ -10,7 +9,7 @@ But you can call me Jess if you'd like! 😊 I'm currently a 2nd-year Computer S
 
 Just like my approach to school life, I like to keep things diverse! Currently, from my profile, you'll find some projects I've worked on from various Hackathons, competitions, and personal projects, some course solutions, and other repos scattered around.
 
----
+
 <!--
 ## Tech & Tools 🔧
 <div align="center">
