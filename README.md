@@ -1,9 +1,12 @@
-## Hi there 👋
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=800&size=60&duration=3000&pause=500&color=F7EDDD&background=24352D&center=true&vCenter=true&random=true&width=800&height=140&lines=Full+Stack+Developer;Food+Connoisseur;Lo-fi+Lover" alt="Typing SVG" /></a>
+</div>
 
-<!--
-**jeessh/jeessh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+### More about me
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +16,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
