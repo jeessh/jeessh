@@ -10,10 +10,9 @@
 * 🚀 **Just trying to make an impact**
 
 <div>
-<a href="https://github.com/jeessh"><img src="https://img.shields.io/badge/Follow Me-black?logo=github"/></a>
-<a href="https://linkedin.com/in/huang-jesse"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:jj2huang@uwaterloo.ca" target="_blank"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoft-outlook&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=jeessh&label=Profile+Views&abbreviated=true&style=flat-square&color=yellowgreen"/> 
+<a href="https://github.com/jeessh"><img src="https://img.shields.io/badge/Follow Me-black?logo=github&style=for-the-badge"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=jeessh&label=Profile+Views&abbreviated=true&style=for-the-badge&color=yellowgreen"/> 
 </div>
 
 ---
@@ -67,4 +66,6 @@
 ---
 <div align="center">
 <h3>Let's get in touch! 🕺</h3>
+<a href="https://linkedin.com/in/huang-jesse"><img width="100" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jesshuang5733@gmail.com" target="_blank"><img width="96" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
