@@ -66,6 +66,7 @@
 ---
 <div align="center">
 <h3>Let's get in touch! 🕺</h3>
-<a href="https://linkedin.com/in/huang-jesse"><img width="100" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:jesshuang5733@gmail.com" target="_blank"><img width="96" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/huang-jesse"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:jesshuang5733@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/jeessh-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </div>
