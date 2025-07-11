@@ -10,7 +10,7 @@
 * 🚀 **Just trying to make an impact**
 
 <div>
-<a href="https://github.com/jeessh"><img src="https://img.shields.io/badge/Follow Me-black?logo=github&style=for-the-badge"/></a>
+<a href="https://github.com/jeessh"><img src="https://img.shields.io/badge/Follow Me-424242?logo=github&style=for-the-badge"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=jeessh&label=Profile+Views&abbreviated=true&style=for-the-badge&color=yellowgreen"/> 
 </div>
