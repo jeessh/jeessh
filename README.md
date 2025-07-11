@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=800&size=60&duration=3000&pause=500&color=F7EDDD&background=24352D5E&center=true&vCenter=true&width=1100&height=140&lines=Jesse+Huang+%F0%9F%92%BB;%3CFull+Stack+Developer%2F%3E;Food+Connoisseur+%F0%9F%8D%9C;Lo-fi+Lover+%F0%9F%8E%A7" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=800&size=60&duration=3000&pause=500&color=F7EDDD&background=84846CBA&center=true&vCenter=true&width=850&height=140&lines=Jesse+Huang+%F0%9F%92%BB;%3CFull+Stack+Developer%2F%3E;Food+Connoisseur+%F0%9F%A5%98;Lo-fi+Lover+%F0%9F%8E%A7" alt="Typing SVG" /></a>
 </div>
 
 ### Hey there! :wave:
@@ -40,7 +40,7 @@
     🏐 Setting for semi-comp volleyball intramurals
     </li>
     <li>☕️ Constantly searching for new cafés every week</li>
-    <li>🗺️ Planning trips I may or may not take</li>
+    <li>🍜 Crafting the perfect noodle soup recipe</li>
     <h4>🔧 My Favourite Tech & Tools</h4>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
