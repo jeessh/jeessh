@@ -5,8 +5,8 @@
 ## Hey there! :wave:
 
 * 🎓 I'm a 3rd year student @ the University of Waterloo, majoring in Computer Science
-* 🧑‍💻 3 years of dev experience, 1 year of professional experience (across 4 internships!)
-* 🌱 Currently learning the ropes of infra (and trying not to break prod 🥀)
+* 🧑‍💻 3 years of dev experience, 1 year of professional experience 
+* 🌱 Learning the ropes of infra (and trying not to break prod 🥀)
 * 🚀 **Just trying to make an impact**
 
 <div>
