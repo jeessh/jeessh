@@ -23,7 +23,7 @@
 <div>
   <h4>💻 Hard at Work</h4>
     <li>
-      <strong>Backend Developer Intern</strong> @ Compass Digital
+      <strong>Backend Dev Intern</strong> @ Compass Digital
     </li>
     <li>
       <strong>Frontend Dev</strong> @ Hack the North
