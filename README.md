@@ -29,7 +29,7 @@
       <strong>Frontend Dev</strong> @ Hack the North
     </li>
     <li>
-      <strong>VP of Engineering</strong> @ UW Blueprint
+      <strong>VP of Engineering + Dev</strong> @ UW Blueprint
     </li>
     <li>
       Prev @ WSIB Innovation Lab, Wiz Robotics, WARG
