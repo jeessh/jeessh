@@ -24,6 +24,8 @@
 <div>
   <h4>💻 Hard at Work</h4>
     <li>
+      Currently seeking <strong>Winter/Summer 2026 internships</strong>
+    <li>
       <strong>Full Stack Eng Intern</strong> @ Compass Digital
     </li>
     <li>
@@ -33,7 +35,7 @@
       <strong>Co-President</strong> @ UW Blueprint
     </li>
     <li>
-      Prev @ WSIB Innovation Lab, Wiz Robotics, WARG
+      Prev @ Compass Digital, WSIB Innovation Lab, Wiz Robotics, WARG
     </li>
   <h4>✨ Hardly Working</h4>
     <li>
