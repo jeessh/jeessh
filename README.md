@@ -26,9 +26,6 @@
     <li>
       Currently seeking <strong>Winter/Summer 2026 internships</strong>
     <li>
-      <strong>Full Stack Eng Intern</strong> @ Compass Digital
-    </li>
-    <li>
       <strong>Frontend Organizer</strong> @ Hack the North
     </li>
     <li>
