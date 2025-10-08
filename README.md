@@ -7,7 +7,7 @@
 
 * 🎓 I'm a 3rd year student @ the University of Waterloo, majoring in Computer Science
 * 🧑‍💻 3 years of dev experience, 1 year of professional experience 
-* 🌱 Learning the ropes of infra (and trying not to break prod 🥀)
+* 🌱 Diving deep into SWE life (and trying not to break prod 🥀)
 * 🚀 **Always looking to make an impact**
 
 <div>
