@@ -32,7 +32,7 @@
       <strong>Co-President</strong> @ UW Blueprint
     </li>
     <li>
-      Prev @ Compass Digital, WSIB, Wiz Robotics, WARG
+      Prev @ Compass Digital, WSIB, Wiz Robotics
     </li>
   <h4>✨ Hardly Working</h4>
     <li>
