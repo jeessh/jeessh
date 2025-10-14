@@ -23,7 +23,7 @@
 <div>
   <h4>💻 Hard at Work</h4>
     <li>
-      Currently seeking <strong>Winter/Summer 2026 internships</strong>
+      Currently seeking <strong>Summer/Fall 2026 internships</strong>
     <li>
       <strong>Frontend Organizer</strong> @ Hack the North
     </li>
