@@ -8,7 +8,6 @@
 * 🎓 I'm a 3rd year student @ the University of Waterloo, majoring in Computer Science
 * 🧑‍💻 3 years of dev experience, 1 year of professional experience 
 * 🌱 Diving deep into SWE life (and trying not to break prod 🥀)
-* 🚀 **Always looking to make an impact**
 
 <div>
 <a href="https://github.com/jeessh"><img src="https://img.shields.io/badge/Follow Me-424242?logo=github&style=for-the-badge"/></a>
