@@ -37,7 +37,7 @@
     <li>
     🏐 Setting for semi-comp volleyball intramurals
     </li>
-    <li>☕️ Constantly searching for new cafés every week</li>
+    <li>☕️ Searching for new cafés every week</li>
     <li>🍜 Crafting the perfect noodle soup recipe</li>
     <h4>🔧 My Favourite Tech & Tools</h4>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
