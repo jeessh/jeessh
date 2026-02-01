@@ -21,7 +21,7 @@
 
 <img width="400px" align="right" alt="GIF" src="assets/doggyrake.gif"/>
 <div>
-  <h4>💻 Hard at Work</h4>
+  <h4>💻 Working Hard</h4>
     <li>
       Currently seeking <strong>Summer/Fall 2026 internships</strong>
     <li>
