@@ -5,7 +5,7 @@
 ## Hey there! :wave:
 <!-- JESSE HUANG JEESSH -->
 
-* 🎓 I'm a 3rd year student @ the University of Waterloo, majoring in Computer Science
+* 🎓 I'm a 4th year student @ the University of Waterloo, majoring in Computer Science
 * 🧑‍💻 3 years of dev experience, 1 year of professional experience 
 * 🌱 Deep diving into SWE life (and trying not to break prod 🥀)
 
