@@ -25,10 +25,10 @@
     <li>
       Currently seeking <strong>Fall 2026 internships</strong>
     <li>
-      <strong>Frontend Organizer</strong> @ Hack the North
+      <strong>Technical Lead</strong> @ UW Blueprint
     </li>
     <li>
-      <strong>Co-President</strong> @ UW Blueprint
+      Prev <strong>Frontend Organizer</strong> @ Hack the North
     </li>
     <li>
       Prev @ Compass Digital, WSIB, Wiz Robotics
