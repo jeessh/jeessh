@@ -6,7 +6,7 @@
 <!-- JESSE HUANG JEESSH -->
 
 * 🎓 I'm a 4th year student @ the University of Waterloo, majoring in Computer Science
-* 🧑‍💻 3 years of dev experience, 1 year of professional experience 
+* 🧑‍💻 4 years of dev experience, _almost_ 2 years of professional experience 
 * 🌱 Deep diving into SWE life (and trying not to break prod 🥀)
 
 <div>
@@ -19,11 +19,15 @@
 
 ### A little about me 🥐
 
-<img width="400px" align="right" alt="GIF" src="assets/doggyrake.gif"/>
+<img width="420px" align="right" alt="GIF" src="assets/doggyrake.gif"/>
 <div>
   <h4>💻 Working Hard</h4>
     <li>
-      Currently seeking <strong>Fall 2026 internships</strong>
+      Currently seeking <strong>S27 New-Grad positions</strong>
+    </li>
+    <li>
+      Building a clinical documentation startup
+    </li>
     <li>
       <strong>Technical Lead</strong> @ UW Blueprint
     </li>
