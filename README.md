@@ -2,12 +2,12 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fraunces&weight=800&size=60&duration=3000&pause=500&color=fbfbf4&background=97936d&center=true&vCenter=true&width=850&height=140&lines=Jesse+Huang+%F0%9F%92%BB;%3CFull+Stack+Developer%2F%3E;Food+Connoisseur+%F0%9F%A5%98;Lo-fi+Lover+%F0%9F%8E%A7" alt="Jesse Huang Typing SVG" />
 </div>
 
-## Hey there! :wave:
+## Hey, I'm Jesse! :wave:
 <!-- JESSE HUANG JEESSH -->
 
 * 🎓 I'm a 4th year student @ the University of Waterloo, majoring in Computer Science
 * 🧑‍💻 4 years of dev experience, _almost_ 2 years of professional experience 
-* 🌱 Deep diving into SWE life (and trying not to break prod 🥀)
+* 🌱 Building for the love of the game (and trying not to break prod 🥀)
 
 <div>
 <a href="https://github.com/jeessh"><img src="https://img.shields.io/badge/Follow Me-424242?logo=github&style=for-the-badge"/></a>
@@ -26,7 +26,7 @@
       Currently seeking <strong>S27 New-Grad positions</strong>
     </li>
     <li>
-      Building with 3 orgs/startups at once!
+      Juggling work at a <strong>startup + 2 non-profits</strong>
     </li>
     <li>
       <strong>Technical Lead</strong> @ UW Blueprint
