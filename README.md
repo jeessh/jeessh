@@ -26,7 +26,7 @@
       Currently seeking <strong>S27 New-Grad positions</strong>
     </li>
     <li>
-      Building a clinical documentation startup
+      Building with 3 orgs/startups at once!
     </li>
     <li>
       <strong>Technical Lead</strong> @ UW Blueprint
