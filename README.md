@@ -22,6 +22,7 @@
 <img width="420px" align="right" alt="GIF" src="assets/doggyrake.gif"/>
 <div>
   <h4>💻 Working Hard</h4>
+  <ul>
     <li>
       Juggling work at <strong>startups & non-profits</strong>
     </li>
@@ -34,12 +35,15 @@
     <li>
       Prev @ Compass Digital, WSIB, Wiz Robotics
     </li>
+  </ul>
   <h4>✨ Hardly Working</h4>
+  <ul>
     <li>
     🏐 Setting for semi-comp volleyball intramurals
     </li>
     <li>☕️ Searching for new cafés every week</li>
     <li>🍜 Crafting the perfect noodle soup recipe</li>
+  </ul>
     <h4>🔧 My Favourite Tech & Tools</h4>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="typescript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
