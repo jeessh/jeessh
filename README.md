@@ -23,10 +23,7 @@
 <div>
   <h4>💻 Working Hard</h4>
     <li>
-      Currently seeking <strong>S27 New-Grad positions</strong>
-    </li>
-    <li>
-      Juggling work at a <strong>startup + 2 non-profits</strong>
+      Juggling work at <strong>startups & non-profits</strong>
     </li>
     <li>
       <strong>Technical Lead</strong> @ UW Blueprint
