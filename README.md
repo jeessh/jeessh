@@ -10,7 +10,7 @@
 * 🌱 Building for the love of the game (and trying not to break prod 🥀)
 
 <div>
-<a href="https://jessehuang.me"><img src="https://img.shields.io/badge/jessehuang.me-97936d?style=for-the-badge"/></a>
+<a href="https://jessehuang.me" target="_blank"><img src="https://img.shields.io/badge/jessehuang.me-97936d?style=for-the-badge"/></a>
 
 <img src="https://komarev.com/ghpvc/?username=jeessh&label=Profile+Views&abbreviated=true&style=for-the-badge&color=98936d"/> 
 </div>
