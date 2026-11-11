@@ -6,7 +6,7 @@
 <!-- JESSE HUANG JEESSH -->
 
 * 🎓 I'm a 4th year student @ the University of Waterloo, majoring in Computer Science
-* 🧑‍💻 4 years of dev experience, _almost_ 2 years of professional experience 
+* 🧑‍💻 4 years of dev experience, 2 years of professional experience 
 * 🌱 Building for the love of the game (and trying not to break prod 🥀)
 
 <div>
